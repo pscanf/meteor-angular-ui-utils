@@ -1,0 +1,11 @@
+{
+  "name": "angular-ui-utils",
+  "description": "Swiss-Army-Knife of AngularJS tools (with no external dependencies!)",
+  "homepage": "https://github.com/pscanf/meteor-angular-ui-utils",
+  "author": "Paolo Scanferla <paolo.scanferla@gmail.com> (https://github.com/pscanf)",
+  "version": "0.1.1",
+  "git": "https://github.com/pscanf/meteor-angular-ui-utils.git",
+  "packages": {
+      "ngMeteor": {}
+  }
+}
